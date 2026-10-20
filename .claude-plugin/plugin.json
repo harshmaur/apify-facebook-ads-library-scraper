@@ -1,0 +1,19 @@
+{
+  "name": "apify-facebook-ads-library-scraper",
+  "version": "1.0.0",
+  "description": "Research Meta Ad Library ads with creative links, dates and disclosed audience data through an Apify Actor.",
+  "author": {
+    "name": "Harsh Maur",
+    "url": "https://github.com/harshmaur"
+  },
+  "homepage": "https://apify.com/harshmaur/facebook-ads-library-scraper",
+  "repository": "https://github.com/harshmaur/apify-facebook-ads-library-scraper",
+  "license": "MIT",
+  "keywords": [
+    "facebook-ads",
+    "meta-ad-library",
+    "ad-research",
+    "apify",
+    "mcp"
+  ]
+}

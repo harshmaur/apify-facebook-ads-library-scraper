@@ -1,0 +1,16 @@
+{
+  "name": "apify-facebook-ads-library-scraper",
+  "owner": {
+    "name": "Harsh Maur"
+  },
+  "metadata": {
+    "description": "Agent skill and MCP access for Meta ad research."
+  },
+  "plugins": [
+    {
+      "name": "apify-facebook-ads-library-scraper",
+      "source": "./",
+      "description": "Research Meta Ad Library ads with creative links, dates and disclosed audience data through an Apify Actor."
+    }
+  ]
+}

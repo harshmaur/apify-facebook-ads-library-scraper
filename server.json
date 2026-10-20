@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.harshmaur/facebook-ads-library-scraper",
+  "title": "Facebook Ads Library Scraper (Apify)",
+  "description": "Export Meta ads with copy, media, dates and audience data. No Facebook login. From $0.40/1k",
+  "version": "1.0.0",
+  "websiteUrl": "https://apify.com/harshmaur/facebook-ads-library-scraper",
+  "repository": {
+    "url": "https://github.com/harshmaur/apify-facebook-ads-library-scraper",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=harshmaur/facebook-ads-library-scraper",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify API token as 'Bearer <APIFY_TOKEN>'. Free token at https://console.apify.com/account/integrations",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
