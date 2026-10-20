@@ -44,7 +44,7 @@ Spend and audience figures can be absent for ordinary commercial ads. The skill 
 
 The Free plan price is $0.50 per 1,000 ads. Paid Apify plans range from $0.40 to $0.47 per 1,000. Ad details have no added per-ad charge. Set `count` to bound a run and `limitPerSource` to divide its budget among URLs.
 
-Registry name reserved in this repo: `io.github.harshmaur/facebook-ads-library-scraper`. Links to external listings will be added after publication.
+Published registry entry: [io.github.harshmaur/facebook-ads-library-scraper](https://registry.modelcontextprotocol.io/v0/servers/io.github.harshmaur%2Ffacebook-ads-library-scraper/versions/latest).
 
 Questions about the Actor: [Apify Issues](https://apify.com/harshmaur/facebook-ads-library-scraper/issues).
 
